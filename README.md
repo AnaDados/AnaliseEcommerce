@@ -1,4 +1,4 @@
-# AnaliseEcommerce
+# 🛒 AnaliseEcommerce
 
 Este projeto tem como objetivo realizar uma análise exploratória de um dataset público com dados simulados relacionado a uma plataforma de e-commerce. Inicialmente, foi feito o processo de limpeza, tratamento e compreensão das variáveis presentes no conjunto de dados. No entanto, a análise não se limita à etapa exploratória. 
 
